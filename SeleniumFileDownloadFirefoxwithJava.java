@@ -1,6 +1,3 @@
-
-
-
 // To download file in Firefox
 String downloadFilepath = "Your Download Path";
 
