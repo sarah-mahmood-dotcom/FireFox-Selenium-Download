@@ -1,7 +1,7 @@
 
 
 
-// To download file in gecko
+// To download file in Firefox
 String downloadFilepath = "Your Download Path";
 
 FirefoxOptions options = new FirefoxOptions();
